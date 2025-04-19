@@ -1,1 +1,2 @@
-This is my new git learning class
+This is my new git learning class.
+this is beautiful and awesome to learn.
